@@ -1,3 +1,3 @@
-def Person  
+def Person
 
 end
